@@ -1,0 +1,30 @@
+{
+  "id": "asakuma",
+  "name": "Asakuma Network",
+  "description": "Ranked Bedwars Server in Asia.",
+  "addresses": [
+    "asakuma.club"
+  ],
+  "primaryAddress": "asakuma.club",
+  "primaryMinecraftVersion": "1.8.9",
+  "primaryColor": "#44a1e3",
+  "secondaryColor": "#a854de",
+  "primaryLanguage": "en",
+  "languages": [
+    "en"
+  ],
+  "primaryRegion": "AS",
+  "regions": [
+    "AS"
+  ],
+  "gameTypes": [
+    "PvP",
+    "UHCRun",
+    "Minigames"
+  ],
+  "website": "https://www.asakuma.club",
+  "store": "https://store.asakuma.club",
+  "socials": {
+    "discord": "https://www.asakuma.club/discord"
+  }
+}
